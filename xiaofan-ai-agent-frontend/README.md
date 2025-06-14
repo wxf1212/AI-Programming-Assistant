@@ -43,7 +43,7 @@ npm run build
 
 项目依赖以下后端接口：
 
-- `/api/ai/program_app/chat/sse` - AI编程助手聊天接口
+- `/api/ai/program_assis/chat/sse` - AI编程助手聊天接口
 - `/api/ai/manus/chat` - AI超级智能体聊天接口
 
 后端服务默认运行在 `http://localhost:8123`
